@@ -3,4 +3,7 @@ public class Demo14 {
         System.out.println("在上传一个Demo1");
         System.out.println("我需要修改Demo14这个文件");
     }
+    public void test2(){
+
+    }
 }
