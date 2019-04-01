@@ -11,4 +11,7 @@ public class Demo {
     public void test2(){
 
     }
+    public void test4(){
+
+    }
 }
